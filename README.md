@@ -1,6 +1,6 @@
 # To Hero - CappacitaDev
 
 <p align="center">
-[img]https://i.imgur.com/pHHzN8H.png[/img]
+<img width="100%" height="100%" src="https://i.imgur.com/pHHzN8H.png">
 </p>
 
